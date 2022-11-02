@@ -1,0 +1,15 @@
+958ffcfa13e30c802a1dc8e28d8f4901 *DESCRIPTION
+0f15fc626654dfbd75b1f562acbcc29f *NAMESPACE
+614388935e28f82eedb91d1e93462eeb *NEWS.md
+e8b9b8c9f465cc39c7ffc714c7a6094d *R/fetch_quorads.R
+b2a10055191e3eec415a9e3c7b08fe64 *R/my_quorads_data.R
+290ba4cbd7356a5aadfbc7fbe1f1e83a *README.md
+77001896a77d1cb481ff42b2a5411b1a *build/vignette.rds
+7af2a962292f748a019061f9506ce492 *data/my_quorads_data.RData
+4c26c2508c4d5cc7b27efebac1ac7c14 *inst/doc/tutorial.R
+23751bc66d0e78be6c451f814d8b6f65 *inst/doc/tutorial.Rmd
+0091d2550de94351eed7053870233de2 *inst/doc/tutorial.html
+30d8aa56022557db07664e91f9834485 *man/fetch_quorads.Rd
+51ff093382a85c24c45b2dd9bb56fe1e *man/my_quorads_data.Rd
+7af2a962292f748a019061f9506ce492 *vignettes/my_quorads_data.RData
+23751bc66d0e78be6c451f814d8b6f65 *vignettes/tutorial.Rmd
